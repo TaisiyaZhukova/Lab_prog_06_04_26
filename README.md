@@ -21,13 +21,12 @@
 ---
 
 ## Структура проекта
-project/
-│
-├── main.py
-├── currency_singleton.py
-├── tests.py
-├── currencies.jpg
-└── README.md
+project:
+- main.py
+- currency_singleton.py
+- tests.py
+- currencies.jpg
+- README.md
 
 
 ---
